@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035289856557",
+    "project_id": "busba-6ca2b",
+    "storage_bucket": "busba-6ca2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035289856557:android:6b6af11196b57eac3846a4",
+        "android_client_info": {
+          "package_name": "com.busba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdYoIS27XLqQRBuSZ7-ZmeVWA9YerrqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
